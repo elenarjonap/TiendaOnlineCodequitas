@@ -4,6 +4,7 @@ Name: TiendaOnlineCodequitas.
 Description: We are learning to work in a group. Here are the first steps to create an online store selling luggage. Our project contains a home page, a catalog and a product sheet.
 
 Collaborators:
+
 •	Product Owner:  Camila Ruíz. (https://github.com/camilaruiz17 & Github)
 
 •	Scrum Master: Elena Mª Pérez. (https://github.com/elenarjonap & https://www.linkedin.com/in/elena-mar%C3%ADa-p%C3%A9rez-arjona-a090b3110/)
