@@ -22,3 +22,4 @@ Stacks: HTML5 and CCS3 JS ES6 & Bootstrap.
 Methodology: Pair Programming.
 
 Next steps: thinking
+
