@@ -26,3 +26,9 @@ Next steps: thinking
 ![capturaindex](https://user-images.githubusercontent.com/116546377/200848420-00489e5c-2015-4ded-a7d2-51d2d50e77c1.png)
 ![capturacatalogo](https://user-images.githubusercontent.com/116546377/200848483-3d1da4fe-571b-476e-9f3c-94ca900839d1.png)
 ![capturaobjeto](https://user-images.githubusercontent.com/116546377/200848517-1fd28d02-b2e5-44c0-9377-2e55608e11dd.png)
+
+
+
+<img width="196" alt="Captura de Pantalla 2022-11-09 a las 23 46 34" src="https://user-images.githubusercontent.com/116546377/200959069-06a91dc9-1ccc-4cd9-941f-7d0ab74b5ea8.png">
+<img width="415" alt="Captura de Pantalla 2022-11-09 a las 23 47 09" src="https://user-images.githubusercontent.com/116546377/200959088-0bf348a2-0f62-4ceb-9d77-ea4e66833005.png">
+<img width="252" alt="Captura de Pantalla 2022-11-09 a las 23 47 45" src="https://user-images.githubusercontent.com/116546377/200959117-b163e8b7-dfbd-4452-b4e6-36c008c739c1.png">
