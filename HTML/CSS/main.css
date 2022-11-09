@@ -1,0 +1,68 @@
+/* style index principal */
+
+
+
+
+/* style objeto */
+.productContainer {
+  background-color: rgb(180, 180, 180);
+  border-radius: 5%;
+}
+
+.imageContainer img {
+  width: 90%;
+}
+
+button{
+  background-color: aliceblue;
+  text-decoration: none;
+  color: black;
+} 
+
+/* Style footer */
+.pie-pagina{
+  width: 100%;
+  background-color: #FFE5F0;
+}.pie-pagina .grupo-1{
+  width:100%;
+  max-width:1200px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap:50px;
+  padding:45px 0px;
+}.pie-pagina .grupo-1 .box h2{
+  color: black;
+  margin-bottom: 25px;
+  font-size: 30px;
+}.pie-pagina .grupo-1 .box p{
+ color: black;
+ margin-bottom: 30px;
+ font-size: 20px;
+}.pie-pagina .grupo-1 .red-social a{
+  display: inline-block;
+  text-decoration: none;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  color: black;
+  margin-right: 15px;
+  background-color: white;
+  text-align:  center;
+  transition: all 300ms ease;}.pie-pagina .grupo-1 .red-social a:hover{
+  color: rgb(98, 231, 220);
+}.pie-pagina .grupo-2{
+background-color:rgb(238, 98, 231);
+padding: 15px 10px ;
+text-align: center;
+color: black;
+}.pie-pagina .grupo-2 small{
+  font-size: 15px;
+}@media screen and (max-width:800px){
+  .pie-pagina .grupo-1{
+    width:90%;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap:30px;
+    padding: 35px 0px;
+  }
+}
