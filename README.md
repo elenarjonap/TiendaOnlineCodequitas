@@ -23,3 +23,8 @@ Methodology: Pair Programming.
 
 Next steps: thinking
 
+
+
+![capturaindex](https://user-images.githubusercontent.com/116546377/200848420-00489e5c-2015-4ded-a7d2-51d2d50e77c1.png)
+![capturacatalogo](https://user-images.githubusercontent.com/116546377/200848483-3d1da4fe-571b-476e-9f3c-94ca900839d1.png)
+![capturaobjeto](https://user-images.githubusercontent.com/116546377/200848517-1fd28d02-b2e5-44c0-9377-2e55608e11dd.png)
