@@ -15,8 +15,6 @@ Collaborators:
 
 •	Developer: Paula Ramírez. (https://github.com/pagudelo884 & https://www.linkedin.com/in/paula-agudelo-9ba713241/)
 
- (CAPTURASSSSS)
-
 Stacks: HTML5 and CCS3 JS ES6 & Bootstrap.
 
 Methodology: Pair Programming.
